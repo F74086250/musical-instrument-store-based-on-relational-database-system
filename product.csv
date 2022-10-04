@@ -1,0 +1,7 @@
+"Product_ID","Class","Brand","Product_name","Price","Stock","Release_date","recommend","is_used","state","audition"
+"A01","電吉他","Fender","墨廠 Fender Classic Player Jaguar Special CAR 電吉他","12","10","2022-06-01","1","0","狀況良好1","Fender_American_Performer_Telecaster.mp3"
+"G01","電吉他","Fender","Fender American Performer Telecaster","30000","2","2022-05-01","1","1","Fender_American_Performer_Telecaster.mp3","Fender_American_Performer_Telecaster.mp3"
+"G02","電吉他","Epiphone","Les Paul Standard 50S","21000","4","2022-03-02","0","0","全新","Les_Paul_Standard_50S_2.mp3"
+"G03","木吉他","Cort","Cort L100F 可插電民謠吉他","12800","9","2022-04-06","1","0","全新","Cort_L100F.mp3"
+"G04","貝斯","Bacchus","Bacchus / BJB-1M 日系電貝斯","12200","2","2022-04-26","0","1","全新","Bacchus_-_BJB-1M.mp3"
+"K01","MIDI鍵盤","Novation","Novation Launchkey 61 MK3 控制鍵盤","10800","0","2021-11-26","0","0","全新",
